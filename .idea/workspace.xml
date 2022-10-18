@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aa65fe1-4227-4458-8738-05434e9fd407" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/aaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aaa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aaa/asda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aaa/asda.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,15 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/asd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-              <folding>
-                <element signature="e#62#63#0" expanded="true" />
-                <element signature="e#98#99#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aaa/asda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -66,13 +72,15 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/aaa.java" />
         <option value="$PROJECT_DIR$/src/asd.java" />
+        <option value="$PROJECT_DIR$/src/com/aaa/asda.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1028" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="102" />
+    <option name="y" value="58" />
+    <option name="width" value="1750" />
+    <option name="height" value="939" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -91,6 +99,12 @@
               <item name="ideaJavaDeom2" type="b2602c69:ProjectViewProjectNode" />
               <item name="ideaJavaDeom2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ideaJavaDeom2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideaJavaDeom2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aaa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665978513772</updated>
       <workItem from="1665978518830" duration="593000" />
-      <workItem from="1666057628492" duration="839000" />
+      <workItem from="1666057628492" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="版本一">
       <created>1666057756990</created>
@@ -171,17 +185,45 @@
       <option name="project" value="LOCAL" />
       <updated>1666058370240</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="版本二">
+      <created>1666058493594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666058493594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="版本二">
+      <created>1666058555805</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666058555805</updated>
+    </task>
+    <task id="LOCAL-00007" summary="版本三">
+      <created>1666058853445</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666058853445</updated>
+    </task>
+    <task id="LOCAL-00008" summary="版本三1">
+      <created>1666059157217</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666059157217</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1432000" />
+    <option name="totallyTimeSpent" value="2381000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <frame x="299" y="89" width="1400" height="751" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10053619" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.111773476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -199,7 +241,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.37156704" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -218,7 +260,8 @@
     <MESSAGE value="版本一" />
     <MESSAGE value="版本二" />
     <MESSAGE value="版本三" />
-    <option name="LAST_COMMIT_MESSAGE" value="版本三" />
+    <MESSAGE value="版本三1" />
+    <option name="LAST_COMMIT_MESSAGE" value="版本三1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -237,12 +280,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/asd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding>
-            <element signature="e#62#63#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aaa/asda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
